@@ -23,7 +23,7 @@
 
 ### Скриншоты
 
-![GitHub Logo](C:\Users\olegb\Pictures\Screenshots\Снимок экрана (144).png)
+(C:\Users\olegb\Pictures\Screenshots\Снимок экрана (144).png)
 
 ### Связь
 

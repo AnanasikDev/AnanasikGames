@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Ananasik Games Official Web-site
 
-You can use the [editor on GitHub](https://github.com/olegeer/Site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Я студент, изучающий программирование. На данный момент я работаю над игрой, название которой - The Swap: Engage. Побродно об игре написано ниже.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Об игре
 
-### Markdown
+Пару слов о проекте. Это однопользовательская игра, в которой будут элементы шутера, стелса, выживания, а также проработанный сюжет. Сам проект активно развивается с 1 января 2021 года, когда я действительно загорелся этой идеей. Об истории проекта позже, а пока расскажу о сюжете, стиле и в целом работе на игрой.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Сюжет
 
-```markdown
-Syntax highlighted code block
+Дело происходит в современном мире (точная дата неизвестна), когда магнитные полюса Земли, как это случается раз в 10000 лет, меняются местами. На время этого процесса
+пропадает магнитное поле, которое сдерживало нас от солнечного радиоактивного излучения. Из-за мощной радиации во многих местах земли начали погибать люди, но где-то 
+происходили странные вещи: люди приспосабливались и изменялись. Радиация на них уже не действовала, и мы подумали, что это спасение. Но позже мы осознали, что те, кто
+изменились и приспособились стали вести себя по-другому. Одни стали вялыми и медленными, другие - быстрыми и сильными, но одно их объединяло - желание убивать. Мы стали
+Защищатся, понимая, что одна ошибка - и все погибнут. Эти твари беспощадны. Мы уже не считали их своими друзьями, знакомыми. Чтобы обезопасить себя, мы построили бункер,
+в котором тебя и нашли. Прошло несколько месяцев с момента "Вспышки", однако уже сейчас вокруг бункера не так много тварей. Но они все лезут и лезут, как будто есть место,
+где они зарождаются...
 
-# Header 1
-## Header 2
-### Header 3
+### Скачать
 
-- Bulleted
-- List
+Чтобы скачать любую версию игры надо перейти на [GitHub](https://github.com/olegeer/The_Swap_Engage/releases) и скачать выбранную Вами версию. (Рекомендую скачивать последнюю
+стабильную версию)
 
-1. Numbered
-2. List
+### Связь
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/olegeer/Site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[GitHub](https://github.com/olegeer/The_Swap_Engage) 
+[Youtube](https://www.youtube.com/channel/UCeZG4B_HLpamjCuPPUj3gzA)
+[Discord](Ananasik#5568)

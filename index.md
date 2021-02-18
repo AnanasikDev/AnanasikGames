@@ -23,7 +23,7 @@
 
 ### Скриншоты
 
-![Screenshot](/Images/ Снимок экрана (157).png)
+![Screenshot](/Images/ScreenShot1.png)
 
 ### Связь
 

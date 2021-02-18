@@ -21,6 +21,10 @@
 Чтобы скачать любую версию игры надо перейти на [GitHub](https://github.com/olegeer/The_Swap_Engage/releases) и скачать выбранную Вами версию. (Рекомендую скачивать последнюю
 стабильную версию)
 
+### Скриншоты
+
+![GitHub Logo](C:\Users\olegb\Pictures\Screenshots\Снимок экрана (144).png)
+
 ### Связь
 
 [GitHub](https://github.com/olegeer/The_Swap_Engage) 

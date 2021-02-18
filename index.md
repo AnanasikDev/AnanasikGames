@@ -23,7 +23,7 @@
 
 ### Скриншоты
 
-![alt text](C:\Users\olegb\Pictures\Screenshots\Снимок экрана (144).png)
+![Screenshot](/Images/ Снимок экрана (157).png)
 
 ### Связь
 

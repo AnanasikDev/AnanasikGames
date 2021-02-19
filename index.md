@@ -33,9 +33,9 @@
 
 ![Screenshot](/Images/ScreenShot6.png)
 
-Также я работаю над пиксельным стилизованным интерфейсом:
+и
 
-![Screenshot](/Images/ScreenShot7.png)
+![Screenshot](/Images/ScreenShot8.png)
 
 ### Скачать
 
@@ -44,13 +44,9 @@
 
 ### Скриншоты
 
-![Screenshot](/Images/ScreenShot1.png)
+![Screenshot](/Images/ScreenShot1.png) ![Screenshot](/Images/ScreenShot3.png)
 
-![Screenshot](/Images/ScreenShot3.png)
-
-![Screenshot](/Images/ScreenShot4.png)
-
-![Screenshot](/Images/ScreenShot5.png)
+![Screenshot](/Images/ScreenShot4.png) ![Screenshot](/Images/ScreenShot5.png)
 
 ### Изменения
 

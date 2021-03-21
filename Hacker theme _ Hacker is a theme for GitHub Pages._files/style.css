@@ -314,3 +314,21 @@ a {
 #a-title {
     text-decoration: none
 }
+
+.thumb img{
+    padding: 15px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+}
+.programmer{
+color: #0ABAB5;
+}
+.designer{
+color: #CE55D8;
+}
+.audio-engineer{
+color: #DEBC00;
+}
+.space{
+margin-top: 10px;
+}

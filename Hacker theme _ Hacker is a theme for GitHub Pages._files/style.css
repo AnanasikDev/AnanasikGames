@@ -185,23 +185,6 @@ h1,h2,h3,h4,h5,h6 {
     font-size: 18px
 }
 
-#main_content h4 {
-    font-size: 14px
-}
-
-#main_content h5 {
-    font-size: 12px;
-    text-transform: uppercase;
-    margin: 0 0 5px 0
-}
-
-#main_content h6 {
-    font-size: 12px;
-    text-transform: uppercase;
-    color: #999;
-    margin: 0 0 5px 0
-}
-
 dt {
     font-style: italic;
     font-weight: bold

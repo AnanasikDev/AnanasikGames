@@ -104,7 +104,9 @@ section {
     display: block;
     margin: 0 0 20px 0
 }
-
+i {
+    font-size: 15.5px;
+}
 h1,h2,h3,h4,h5,h6 {
     margin: 0 0 20px
 }
@@ -128,7 +130,7 @@ header h1 {
     font-weight: bold;
     font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
     color: #b5e853;
-    text-shadow: 0 1px 1px rgba(0,0,0,0.1),0 0 5px rgba(181,232,83,0.1),0 0 10px rgba(181,232,83,0.1);
+    text-shadow: 0 1px 5px rgba(35, 95, 0, 0.555),0 0 5px rgba(166, 255, 0, 0.527),0 0 10px rgba(181,232,83,0.1);
     letter-spacing: -1px;
     -webkit-font-smoothing: antialiased
 }
@@ -178,7 +180,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #main_content h2 {
-    font-size: 24px
+    font-size: 24px;
+    text-shadow: 0 1px 10px rgba(35, 95, 0, 0.555),0 0 10px rgba(166, 255, 0, 0.527),0 0 10px rgba(181,232,83,0.1);
 }
 
 #main_content h3 {
@@ -257,7 +260,8 @@ hr {
     font-size: 13px;
     text-decoration: none;
     text-shadow: 0 -1px 0 rgba(0,0,0,0.75);
-    box-shadow: inset 0 1px 0 rgba(255,255,255,0.05)
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);
+    box-shadow: 0px 0px 12.5px rgb(41, 41, 41);
 }
 
 .btn:hover {
@@ -269,39 +273,56 @@ hr {
     width: 16px;
     height: 16px;
     margin: 1px 8px 0 0;
-    float: left
+    float: left;
 }
 
 .btn-github .icon {
     opacity: 0.6;
-    background: url("../images/blacktocat.png") 0 0 no-repeat
+    background: url("../images/blacktocat.png") 0 0 no-repeat;
 }
 
-a {
+a:not(.btn) {
     color: #63c0f5;
-    text-shadow: 0 0 5px rgba(104,182,255,0.5)
+    text-shadow: 0 0 10px rgba(104,182,255,0.5);
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover:not(.btn) {
+    color: #44b0ee
+}
+a:active:not(.btn) {
+    color: #2a99da;
 }
 
 .cf:before,.cf:after {
     content: "";
-    display: table
+    display: table;
 }
 
 .cf:after {
-    clear: both
+    clear: both;
 }
 
 .cf {
-    zoom:1}
-
+    zoom:1;
+}
 #a-title {
     text-decoration: none
 }
 
-.thumb img{
-    padding: 15px;
-    margin-right: 50px;
+#thumb img { 
+    margin-right: 60px;
     margin-bottom: 10px;
+ }
+.thumb img {
+    margin-right: 60px;
+    margin-bottom: 10px;
+    box-shadow: 0 1px 5px rgba(12, 32, 0, 0.555),0 0 5px rgba(58, 88, 0, 0.527),0 0 10px rgba(30, 46, 0, 0.1);
+}
+.thumb img:hover {
+    margin-right: 60px;
+    margin-bottom: 10px;
+    box-shadow: 0px 0px 15px rgba(58, 88, 0, 0.527);
 }
 .programmer{
 color: #0ABAB5;
@@ -314,6 +335,9 @@ color: #DEBC00;
 }
 .bmanager{
 color: #EC8801;
+}
+.webdesigner{
+color: #ceb83d
 }
 .nonactive{
 color: #898989;

@@ -386,15 +386,7 @@ background-position: center;
   text-align: center;
   margin: 6px 0px 0px 45px;
 }
-.planitem-ready{
-  font-size: 17px;
-  color:#21CA39;
-}
 .planitem-process{
   font-size: 17px;
-  color:#AAAA39;
-}
-.planitem-notstarted{
-  font-size: 17px;
-  color:#BC0101;
+  color:#AACF39;
 }

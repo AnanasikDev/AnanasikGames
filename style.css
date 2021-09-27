@@ -112,12 +112,17 @@ h1,h2,h3,h4,h5,h6 {
   background-color: #48495C;
   display: inline-block;
   color: #111111;
-  font-size: 16px;
+  font-size: 1vw;
 }
 .cellar-cell{
   width: 32%;
   text-align: center;
   display: inline-block;
+}
+.cellar-legal-text{
+  color: #252525;
+  font-size: 0.8vw;
+  text-align: right;
 }
 .cellar-devider{
   height: 1px;

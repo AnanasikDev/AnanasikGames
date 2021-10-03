@@ -1,8 +1,8 @@
 @font-face {
-font-family: 'long_pixel-7';
-font-style: normal;
-font-weight: normal;
-src: url('long_pixel-7.ttf');
+  font-family: 'long_pixel-7';
+  font-style: normal;
+  font-weight: normal;
+  src: url('long_pixel-7.ttf');
 }
 body{
   margin: 0;
@@ -11,51 +11,43 @@ body{
   color: #eaeaea;
   font-size: 16px;
   line-height: 1.35;
-  /* font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace */
-  /* font-family: url("https://www.dafont.com/orange-kid.font"),cursive; */
-
   font-weight:normal;
   font-size:42px;
-  /* -webkit-font-smoothing : none; */
-   /* "Orange Kid"; */
-
-   font-family: 'long_pixel-7';
+  font-family: 'long_pixel-7';
 }
 
 .head-img{
-height: 0px;
-padding-top: 20%;
-width: 100%;
-background-image: url("./Images/Icon.jpg");
-background-position: center;
-display: block;
-background-repeat: no-repeat;
-background-size: cover;
+  height: 0px;
+  padding-top: 20%;
+  width: 100%;
+  background-image: url("./Images/Icon.jpg");
+  background-position: center;
+  display: block;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1,h2,h3,h4,h5,h6 {
-font-weight: normal;
-color: #97ee25;
-letter-spacing: -0.03em;
-/* text-shadow: 0 1px 1px rgba(0,0,0,0.1),0 0 5px rgba(181,232,83,0.1),0 0 10px rgba(181,232,83,0.1) */
-text-shadow: 0 0 0.275vw rgba(140,255,100,1), 0 0 5vw rgba(140,255,100,0.2);
-margin: 0 0 1.8vw;
+  font-weight: normal;
+  color: #97ee25;
+  letter-spacing: -0.03em;
+  text-shadow: 0 0 0.275vw rgba(140,255,100,1), 0 0 5vw rgba(140,255,100,0.2);
+  margin: 0 0 1.8vw;
 }
 
 .gallery-item{
-/* min-height: 90vh; */
-width: 100%;
-overflow: hidden;
+  width: 100%;
+  overflow: hidden;
 }
 .gallery-item-left{
-background-color: #202020;
+  background-color: #181819;
 }
 .gallery-item-right{
-background-color: #111111;
+  background-color: #111111;
 }
 
 .gallery-divider{
-  width: calc(100% - 4px);
+  width: calc(100% - 0.2vw);
   border: 0.1vw solid #313135;
   background-color: #313135;
   text-align: center;
@@ -82,18 +74,14 @@ background-color: #111111;
 }
 
 .gallery-text{
-  /* padding-top: 14%; */
   width: 60%;
   text-align: center;
-  /* font-size: 20px; */
   font-size: 1.2vw;
   display: inline-block;
-  /* margin-top: 6%; */
   margin-bottom: 6%;
   margin-top: 35%;
   align-items: center;
   height: auto;
-  /* margin: 0, 20px, 0, 20px; */
 }
 .gallery-text-handler-left{
   width: 40%;
@@ -108,12 +96,9 @@ background-color: #111111;
   display: inline-block;
 }
 
-
 .cellar{
-  /* height: auto; */
   width: 100%;
   background-color: #48495C;
-  /* display: inline-block; */
   color: #111111;
   font-size: 1vw;
 }
@@ -127,13 +112,6 @@ background-color: #111111;
   font-size: 0.8vw;
   text-align: right;
 }
-.cellar-devider{
-  height: 1px;
-  width: calc(100% - 2px);
-  border: 1px solid #313141;
-  background-color: #313141;
-  text-align: center;
-}
 
 .button-container{
   width: 100%;
@@ -143,86 +121,40 @@ background-color: #111111;
 }
 .button{
   width: 50%;
-  /* height: 15%; */
-  /* height: 0; */
-  /* padding-top: 15%; */
   position: absolute;
   left: 0;
   right: 0;
   font-size: 1.7vw;
   text-align: center;
-  /* margin: 4px auto;
-  padding: 4px; */
   border-radius: 10vw;
   box-shadow: 0.3vw 0.3vw 0.37vw #595071, -0.2vw -0.2vw 0.44vw #777870, 0 0 2vw rgba(255, 25, 255, 0.34);
-  /* box-shadow: 0.3vw 0.3vw 0.3vw #5950B9, -0.2vw -0.2vw 0.44vw #77CD70, 0 0 2vw rgba(255, 25, 255, 0.34); */
   margin: 0 auto;
-  /* background-color: #151519; */
-  /* background: linear-gradient(260deg, rgba(50,55,220,0.1), rgba(200,220,15,0.2) 80%); */
-
-  /* background: linear-gradient(120deg, rgba(250,0,0,0.5), rgba(100,0,255,0.6) 100%); */
-  /* background: linear-gradient(120deg, rgba(0,255,0,0.6), rgba(0,0,255,0.55) 110%); */
-
-  /* background: linear-gradient(217deg, rgba(255,0,0,.3), rgba(255,0,0,0) 70.71%),
-            linear-gradient(127deg, rgba(0,255,0,.3), rgba(0,255,0,0) 70.71%),
-            linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%); */
-  /* box-shadow: 0 0 2px #FFFFFF; */
-  /* height: 10px; */
-  /* float: left; */
-  /* position: relative; */
 }
 .button-text{
-  /* display: inline-block; */
-  /* float:left; */
   display: inline-block;
-  /* margin-top: 10px; */
   margin: 4% 0;
   color: #41cea0;
-  /* text-shadow: 0 0 1.5vw rgba(65, 206, 160, 1); */
 }
 .button-img{
-  /* float:right; */
   width: 10%;
   display: inline-block;
-  /* display: inline-block; */
-  /* filter: blur(2px); */
-  /* font-smooth: never; */
-  /* image-rendering: -moz-crisp-edges;
-image-rendering: -moz-crisp-edges;
-image-rendering: -o-crisp-edges;
-image-rendering: -webkit-optimize-contrast;
--ms-interpolation-mode: nearest-neighbor; */
-image-rendering: pixelated; /* Chrome */
-/* image-rendering: -webkit-optimize-contrast */
-/* -webkit-font-smoothing : none; */
+  image-rendering: pixelated;
 }
 .progress-img{
   image-rendering: pixelated;
   width: 70%;
   float: right;
-  /* border: 10px #FFFFFF; */
   position: absolute;
-  left: 18vw;
-  padding-top: 4.25vw;
+  left: 19vw;
+  padding-top: 4.75vw;
 }
 .cellar-text{
-font-size: 1vw;
+  font-size: 1vw;
 }
 .key-word{
   color: #55CC11;
   text-shadow: 0 0 0.125vw rgba(140,255,100,1);
 }
 a{
-text-decoration: none;
-}
-
-@media (max-width: 300px) {
-.img-left{
-text-align: left;
-margin-left: -10px;
-}
-.gallery-text-handler-right{
-width: 40%;
-text-align: center;
-}
+  text-decoration: none;
 }
